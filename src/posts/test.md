@@ -7,3 +7,5 @@ tags:
   - created
 ---
 test
+
+![](/static/img/deadchrome.jpg)
