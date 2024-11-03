@@ -8,4 +8,4 @@ tags:
 ---
 test
 
-![](/static/img/deadchrome.jpg)
+![](/static/img/deadchrome.jpg "title")
